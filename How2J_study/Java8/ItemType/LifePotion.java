@@ -1,4 +1,6 @@
-package How2J_study.Java8;
+package How2J_study.Java8.ItemType;
+
+import How2J_study.Java8.ParentClass.Item;
 
 public class LifePotion extends Item {
     public void effect(){
