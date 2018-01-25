@@ -15,7 +15,7 @@ public class Hero {
     String Camp;//阵营
 
     public void kill(Mortal m){
-        System.out.println(name + " 放了一个大招" );
+        System.out.println(name + " 放了一个大招:德玛西亚正义！！！！！！！！！！！！！！！！" );
         m.die();
     }
 
